@@ -1,8 +1,5 @@
-questions1:
-menu_main.xml
-questions2:
-onOptionsItemSelected(MenuItem item)
-questions3:
-myAlertBuilder.setTitle("Alert")
-questions4:
-Dans la méthode onCreateView() de l'extension DialogFragment.
+
+1)menu_main.xml
+2)onOptionsItemSelected(MenuItem item)
+3)myAlertBuilder.setTitle("Alert")
+4)Dans la méthode onCreateView() de l'extension DialogFragment.
